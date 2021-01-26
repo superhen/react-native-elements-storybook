@@ -24,6 +24,7 @@ function loadStories() {
   require('../components/ListItem/listItem.customView.stories');
   require('../components/ListItem/listItem.flatList.stories');
   require('../components/ListItem/listItem.map.stories');
+  require('../components/Navbar/navbar.stories');
   require('../components/Pricing/pricing.stories');
   require('../components/SocialIcon/social.button.stories');
   require('../components/SocialIcon/social.icon.stories');
@@ -52,6 +53,7 @@ const stories = [
   '../components/ListItem/listItem.customView.stories',
   '../components/ListItem/listItem.flatList.stories',
   '../components/ListItem/listItem.map.stories',
+  '../components/Navbar/navbar.stories',
   '../components/Pricing/pricing.stories',
   '../components/SocialIcon/social.button.stories',
   '../components/SocialIcon/social.icon.stories',
